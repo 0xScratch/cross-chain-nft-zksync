@@ -6,6 +6,10 @@ node_modules
 /cache
 /artifacts
 
+# Hardhat Zk files
+/artifacts-zk
+/cache-zk
+
 # TypeChain files
 /typechain
 /typechain-types
